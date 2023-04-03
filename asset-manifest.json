@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cd0f228.css",
+    "main.js": "/static/js/main.619b2bb4.js",
+    "static/media/baner_dtz.png": "/static/media/baner_dtz.70a7725e6260911217b3.png",
+    "static/media/baner_kentavr.png": "/static/media/baner_kentavr.9ddc1df1715194729d4a.png",
+    "static/media/baner_xintai.png": "/static/media/baner_xintai.e61b0704da31441d2ddd.png",
+    "static/media/service_font.jpg": "/static/media/service_font.4c5f64f46c5e1309b422.jpg",
+    "static/media/T244THT.png": "/static/media/T244THT.aa79abc82ad18b72f136.png",
+    "static/media/200B-9.png": "/static/media/200B-9.881d7518f5689736c89d.png",
+    "static/media/lovol45.png": "/static/media/lovol45.c4826dc1280d3b361ebf.png",
+    "static/media/zubr_z_250.png": "/static/media/zubr_z_250.865bb56bdc4eece5e31a.png",
+    "static/media/dtz5244.png": "/static/media/dtz5244.338c4180ab09f7b83be1.png",
+    "static/media/df_404.png": "/static/media/df_404.da755db014a92d3c116f.png",
+    "static/media/Logo_site.png": "/static/media/Logo_site.77dbbac3dd578ca58174.png",
+    "index.html": "/index.html",
+    "main.0cd0f228.css.map": "/static/css/main.0cd0f228.css.map",
+    "main.619b2bb4.js.map": "/static/js/main.619b2bb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd0f228.css",
+    "static/js/main.619b2bb4.js"
+  ]
+}
